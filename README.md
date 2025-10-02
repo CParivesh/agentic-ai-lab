@@ -1,4 +1,4 @@
-# 🧪 Agentic AI Lab
+#  Agentic AI Lab
 
 This repo is my personal lab for **testing research ideas around AI Agents vs Agentic AI**.  
 It contains **toy datasets, simple agents, and experiments** to measure the differences between:
