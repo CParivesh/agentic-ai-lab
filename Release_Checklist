@@ -1,0 +1,5 @@
+# Release Checklist
+- [ ] Bump version
+- [ ] Update CHANGELOG
+- [ ] Tag & push: `git tag vX.Y.Z && git push --tags`
+- [ ] Verify GitHub Release artifacts
